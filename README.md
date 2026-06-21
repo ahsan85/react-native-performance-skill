@@ -102,16 +102,6 @@ description needs tightening or the skill isn't enabled.
 └── react-native-performance.skill   # packaged, ready to upload to Claude.ai directly
 ```
 
-## Repackaging after edits
-
-The `.skill` file is just a zip with the skill folder at its root. After editing the
-Markdown, regenerate it:
-
-```bash
-cd react-native-performance && zip -r ../react-native-performance.skill . -x '*.DS_Store' && cd ..
-```
-
-(or re-run Anthropic's `package_skill.py` if you use the skill-creator tooling).
 
 ## Credits
 
