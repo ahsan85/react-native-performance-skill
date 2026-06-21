@@ -1,0 +1,17 @@
+{
+  "name": "rn-performance-marketplace",
+  "owner": {
+    "name": "Ahsan"
+  },
+  "description": "React Native performance engineering skill — diagnose and fix jank, slow FlatLists, animation stutter, slow startup, and re-render storms.",
+  "plugins": [
+    {
+      "name": "react-native-performance-plugin",
+      "source": "./plugins/react-native-performance-plugin",
+      "description": "Senior React Native architect & performance engineer skill, grounded in the official React Native performance docs.",
+      "version": "1.0.0",
+      "category": "engineering",
+      "keywords": ["react-native", "performance", "mobile", "flatlist", "profiling"]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "react-native-performance-plugin",
+  "displayName": "React Native Performance Architect",
+  "description": "Senior React Native architect & performance engineer skill: diagnoses jank, slow lists, animation stutter, slow startup, and re-render storms using the official React Native performance docs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ahsan"
+  },
+  "homepage": "https://github.com/ahsan85/react-native-performance-skill",
+  "license": "MIT",
+  "keywords": ["react-native", "performance", "flatlist", "profiling", "animations", "hermes"]
+}
